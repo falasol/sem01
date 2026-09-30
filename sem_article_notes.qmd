@@ -133,7 +133,5 @@ Anderson, James C., and David W. Gerbing. 1988. “Structural Equation Modeling 
 
 # Appendix
 
-- [GitHub Repository](https://github.com/your-username/your-repository)
-- [Published Article Notes on GitHub Pages](https://your-username.github.io/your-repository/)
-
-> **Before submitting:** Replace the two placeholder links above with your actual GitHub repository and GitHub Pages URLs, then click both links in the rendered HTML report to verify that they work.
+- [GitHub Repository](https://github.com/falasol/sem01)
+- [Published Article Notes on GitHub Pages](https://falasol.github.io/sem01/sem_article_notes.html)
