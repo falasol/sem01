@@ -1,0 +1,19 @@
+---
+title: "CITI Certification"
+author: "Frank Renn"
+date: today
+format:
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+---
+
+# Screenshot
+
+![CITI](citi.png)
+
+# Appendix
+
+- [GitHub Repository](https://github.com/falasol/sem01)
+- [Published Article Notes on GitHub Pages](https://falasol.github.io/sem01/CITI.html)
